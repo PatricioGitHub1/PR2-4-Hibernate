@@ -3,6 +3,6 @@
 
 ``mvn compile``
 
-``./run.sh com.example.Main``
+``./run.sh com.project.Main``
 
 **Have a nice day!**
